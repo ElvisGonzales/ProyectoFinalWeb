@@ -29,11 +29,7 @@
             <artifactId>primefaces</artifactId>
             <version>11.0.0</version>
         </dependency>
-        <dependency>
-    <groupId>org.primefaces</groupId>
-    <artifactId>primefaces</artifactId>
-    <version>11.0.0</version>
-</dependency>
+        
         <!-- https://mvnrepository.com/artifact/commons-validator/commons-validator -->
         <dependency>
             <groupId>commons-validator</groupId>
@@ -49,7 +45,7 @@
     </dependencies>
     
     
-     <build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
